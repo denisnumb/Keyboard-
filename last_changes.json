@@ -1,4 +1,4 @@
 {
-    "EN": "◆ Test Changes\n◆ Second",
-    "RU": "◆ Тестовые изменения"
+    "EN": "◆ Added special character \"—\" input when pressing CTRL+ALT+-",
+    "RU": "◆ Добавлен ввод специального символа \"—\" при нажатии CTRL+ALT+-"
 }
