@@ -1,4 +1,4 @@
 {
-    "EN": "◆ Added special character \"—\" input when pressing CTRL+ALT+-",
-    "RU": "◆ Добавлен ввод специального символа \"—\" при нажатии CTRL+ALT+-"
+    "EN": "◆ When updating, administrator rights will be requested automatically",
+    "RU": "◆ При обновлении права администратора будут запрашиваться автоматически"
 }
