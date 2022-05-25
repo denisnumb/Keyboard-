@@ -1,4 +1,4 @@
 {
-    "EN": "◆ When updating, administrator rights will be requested automatically",
-    "RU": "◆ При обновлении права администратора будут запрашиваться автоматически"
+    "EN": "◆ Fixed bug of incorrect getting the latest version of the application",
+    "RU": "◆ Исправлен баг некорректного получения последней версии приложения"
 }
