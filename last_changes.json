@@ -1,4 +1,4 @@
 {
-    "EN": "◆ New feature: Enter saved text when pressing a key/key combination",
-    "RU": "◆ Новая функция: Ввод сохраненного текста при нажатии клавиши/сочетания клавиш"
+    "EN": "◆ Fixed a bug due to which the favourite languages were not saved",
+    "RU": "◆ Исправлена ошибка, из-за которой не сохранялись избранные языки"
 }
