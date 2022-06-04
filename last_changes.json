@@ -1,4 +1,4 @@
 {
-    "EN": "◆ Fixed a bug due to which the favourite languages were not saved",
-    "RU": "◆ Исправлена ошибка, из-за которой не сохранялись избранные языки"
+    "EN": "◆ Changed the principle of operation of the saved text input function",
+    "RU": "◆ Изменен принцип работы функции ввода сохраненного текста"
 }
