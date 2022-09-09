@@ -1,4 +1,4 @@
 {
-    "EN": "◆ Changed the principle of operation of the saved text input function",
-    "RU": "◆ Изменен принцип работы функции ввода сохраненного текста"
+    "EN": "◆ Added function to execute given command via cmd",
+    "RU": "◆ Добавлена функция выполнения заданной команды через cmd"
 }
