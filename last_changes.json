@@ -1,4 +1,4 @@
 {
-    "EN": "◆ Favorite languages ​​window and translated text display window no longer minimize fullscreen applications\n◆ Favorite languages ​​sorted alphabetically\n◆ When a command execution error is caused by the command execution function, the error will be displayed in a separate window\n◆ Fixed incorrect display of the list of changes in the update window",
-    "RU": "◆ Окно избранных языков и окно отображения переведенного текста больше не сворачивают полноэкранные приложения\n◆ Избранные языки сортируются по алфавиту\n◆ При ошибке выполнения команды, вызванной функцией выполнения заданной команды, ошибка будет выводиться в отдельное окно\n◆ Исправлено некорректное отображение списка изменений в окне обновления"
+    "EN": "◆ Functions for entering stored text and executing a given command can now be given a name\n◆ Code optimization\n\n(!) The structure of the configuration file has been changed in this version. Before updating, it is recommended to save the old settings, which will have to be reinstalled after the update.",
+    "RU": "◆ Для функций ввода сохраненного текста и выполнения заданной команды теперь можно задать имя\n◆ Оптимизация кода\n\n(!) В этой версии была изменена структура файла конфигурации. Прежде чем обновиться, рекомендуется сохранить старые настройки, которые после обновления придется установить заново."
 }
